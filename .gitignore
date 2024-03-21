@@ -1,0 +1,26 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore Maven build directory
+/target/
+
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore Eclipse files
+.classpath
+.project
+.settings/
+
+# Ignore Gradle build directory
+/build/
+
+# Ignore node_modules directory (contains npm dependencies)
+node_modules/
+
+# Ignore built React files
+/build/
+/public/
+
+# Ignore any environment-specific configuration files
+.env
